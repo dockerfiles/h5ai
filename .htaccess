@@ -1,0 +1,2 @@
+DirectoryIndex index.html index.php /_h5ai/public/index.php
+Header add Access-Control-Allow-Origin "*"
